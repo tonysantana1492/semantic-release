@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/tonysantana1492/semantic-release/compare/v1.0.1...v1.0.2) (2025-12-19)
+
+
+### Bug Fixes
+
+* update footer link text for clarity ([bbb1ebc](https://github.com/tonysantana1492/semantic-release/commit/bbb1ebc2714bf7e6af004e10d66742bbac204a24))
+
 ## [1.0.1](https://github.com/tonysantana1492/semantic-release/compare/v1.0.0...v1.0.1) (2025-12-19)
 
 
