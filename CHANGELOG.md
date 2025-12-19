@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tonysantana1492/semantic-release/compare/v1.0.0...v1.0.1) (2025-12-19)
+
+
+### Bug Fixes
+
+* update Node.js version to 24 in workflow configurations ([4b4e342](https://github.com/tonysantana1492/semantic-release/commit/4b4e34250e65f6f0f9642712a72f813749e5436a))
+
 # 1.0.0 (2025-12-19)
 
 
